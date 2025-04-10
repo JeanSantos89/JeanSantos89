@@ -4,7 +4,7 @@
 
 Sou apaixonado por resolver problemas por meio de automação, análise de dados e soluções criativas em tecnologia. Tenho experiência prática com Python, JavaScript, VBA, além de ferramentas como Power BI, Power Automate, MySQL, Pandas e Flask, transformando desafios em sistemas eficientes. Já atuei em ambientes de laboratório, suporte técnico e ensino, sempre buscando otimizar processos, compartilhar conhecimento e gerar resultados com impacto. Gosto de explorar novas tecnologias, desenvolver projetos reais e evoluir como desenvolvedor e entusiasta de dados.
 
-- ✉️ Converse comigo em [jeansaantos89@gmail.com](mailto:jeansaantos89@gmail.com)
+- ✉️ Converse comigo por [jeansaantos89@gmail.com](mailto:jeansaantos89@gmail.com)
 
 ---
 
