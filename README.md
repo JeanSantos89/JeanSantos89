@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F0BE55&width=435&lines=Ol%C3%A1+%F0%9F%98%8A;Aqui+tem+projetos+de+automa%C3%A7%C3%A3o%2C+dados+e+muito+mais...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F0BE55&width=435&lines=Olá%2C+seja+bem-vindo+ao+meu+GitHub!;Aqui+tem+projetos+de+automação%2C+dados+e+muito+mais...)](https://git.io/typing-svg)
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHMwZDJ2dzRseDB2M2llem9peDduaGV5amp3M2Z3aGRmd3V1cjB6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.webp" align="right" width="200"/>
 
