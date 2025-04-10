@@ -20,6 +20,5 @@ Aqui está o que uso para construir meus projetos!!
   <img src="https://img.shields.io/badge/VBA-FFFFFF?style=for-the-badge&logo=microsoft-access&logoColor=green" alt="VBA" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Power%20Automate-0078D4?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" />
 </p>
