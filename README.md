@@ -1,40 +1,24 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F0BE55&width=435&lines=Olá%2C+seja+bem-vindo+ao+meu+GitHub!;Aqui+tem+projetos+de+automação%2C+dados+e+muito+mais...)](https://git.io/typing-svg)
+# 👋 Olá, sou o Jean!
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnUyZmh3d28zamZjaWhiZjF0eDUzMnBza3Nvd2QwZG4zZzBlYzY2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif" align="right" width="200"/>
+### 🚀 21 anos, criando projetos de automação, estudos e tratamento de dados.
 
-## 🧰 Tecnologias e Ferramentas
+Sou apaixonado por resolver problemas por meio de automação, análise de dados e soluções criativas em tecnologia. Tenho experiência prática com Python, JavaScript, VBA, além de ferramentas como Power BI, Power Automate, MySQL, Pandas e Flask, transformando desafios em sistemas eficientes. Já atuei em ambientes de laboratório, suporte técnico e ensino, sempre buscando otimizar processos, compartilhar conhecimento e gerar resultados com impacto. Gosto de explorar novas tecnologias, desenvolver projetos reais e evoluir como desenvolvedor e entusiasta de dados.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jean-Python" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
-  <img align="center" alt="Jean-MySQL" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Jean-Flask" height="35" width="40" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png">
-  <img align="center" alt="Jean-JavaScript" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+- ✉️ Converse comigo em [jeansaantos89@gmail.com](mailto:jeansaantos89@gmail.com)
 
 ---
 
-## 📊 GitHub Stats
+### 🛠️ Minha caixa de ferramentas
 
-<div align="center">
-  <a href="https://github.com/JeanSantos89">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeanSantos89&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanSantos89&layout=compact&langs_count=7&theme=one_dark_pro"/>
-  </a>
-</div>
+Aqui está o que uso para construir meus projetos!!
 
----
-
-## 📬 Contato
-
-<div>
-  <a href="https://www.linkedin.com/in/jean-santos72/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:jeansaantos89@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
-
----
-
-⭐ Obrigado por visitar! Se curtir algum projeto, deixa uma ⭐ que ajuda muito!
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/VBA-FFFFFF?style=for-the-badge&logo=microsoft-access&logoColor=green" alt="VBA" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Power%20Automate-0078D4?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+</p>
