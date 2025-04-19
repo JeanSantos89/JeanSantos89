@@ -2,7 +2,7 @@
 
 ### 🚀 21 anos, criando projetos de automação, estudos e tratamento de dados.
 
-Sou apaixonado por resolver problemas por meio de automação, análise de dados e soluções criativas em tecnologia. Tenho experiência prática com Python, JavaScript, VBA, além de ferramentas como Power BI, Power Automate, MySQL, Pandas e Flask, transformando desafios em sistemas eficientes. Já atuei em ambientes de laboratório, suporte técnico e ensino, sempre buscando otimizar processos, compartilhar conhecimento e gerar resultados com impacto. Gosto de explorar novas tecnologias, desenvolver projetos reais e evoluir como desenvolvedor e entusiasta de dados.
+Sou apaixonado por resolver problemas por meio de automação, análise de dados e soluções criativas em tecnologia. Tenho experiência prática com Python, JavaScript, VBA, além de ferramentas como Power BI, Power Automate, MySQL, Pandas e Flask, transformando desafios em sistemas eficientes. Já atuei em ambientes de laboratório, suporte técnico e ensino, sempre buscando otimizar processos, compartilhar conhecimento e gerar resultados com impacto. Tenho grande interesse em atuar nas áreas de QA, automação e engenharia de dados.
 
 - ✉️ Converse comigo por [jeansaantos89@gmail.com](mailto:jeansaantos89@gmail.com)
 
