@@ -10,7 +10,6 @@ Sou apaixonado por resolver problemas por meio de automação, qualidade e solu�
 
 ### 🛠️ Minha caixa de ferramentas
 
-Aqui está o que uso para construir meus projetos!!
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
