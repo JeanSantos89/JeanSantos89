@@ -1,8 +1,8 @@
 # 👋 Olá, sou o Jean!
 
-### 🚀 21 anos, criando projetos de automação, estudos e tratamento de dados.
+### 🚀 21 anos, desenvolvendo projetos de automação e QA.
 
-Sou apaixonado por resolver problemas por meio de automação, análise de dados e soluções criativas em tecnologia. Tenho experiência prática com Python, JavaScript, VBA, além de ferramentas como Power BI, Power Automate, MySQL, Pandas e Flask, transformando desafios em sistemas eficientes. Já atuei em ambientes de laboratório, suporte técnico e ensino, sempre buscando otimizar processos, compartilhar conhecimento e gerar resultados com impacto. Tenho grande interesse em atuar nas áreas de QA, automação e engenharia de dados.
+Sou apaixonado por resolver problemas por meio de automação, qualidade e soluções criativas em tecnologia. 
 
 - ✉️ Converse comigo por [jeansaantos89@gmail.com](mailto:jeansaantos89@gmail.com)
 
@@ -21,4 +21,9 @@ Aqui está o que uso para construir meus projetos!!
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Power%20Automate-0078D4?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
 </p>
+
