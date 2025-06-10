@@ -24,5 +24,7 @@ Sou apaixonado por resolver problemas por meio de automação, qualidade e solu�
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robot Framework" />
+  <img src="https://img.shields.io/badge/Appium-663399?style=for-the-badge&logo=appium&logoColor=white" alt="Appium" />
 </p>
 
